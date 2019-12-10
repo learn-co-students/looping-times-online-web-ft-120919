@@ -1,7 +1,4 @@
-def using_times
-	#your code here
-end
-
+{ using_times }.to output(looping_string).to_stdout
 
 
 
